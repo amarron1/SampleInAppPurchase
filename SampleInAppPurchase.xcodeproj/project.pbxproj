@@ -156,6 +156,8 @@
 		17422FD91B68D51B0051E022 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0710;
+				LastSwiftUpdateCheck = 0710;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = amarron;
 				TargetAttributes = {
@@ -409,6 +411,7 @@
 				174230021B68D51C0051E022 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		174230031B68D51C0051E022 /* Build configuration list for PBXNativeTarget "SampleInAppPurchaseTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +420,7 @@
 				174230051B68D51C0051E022 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  SampleInAppPurchase
 //
-//  Created by okuri on 2015/07/29.
+//  Created by amarron on 2015/07/29.
 //  Copyright (c) 2015年 amarron. All rights reserved.
 //
 
